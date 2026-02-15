@@ -1,0 +1,6 @@
+Level 6 (6x6): Unsolvable (8ms)
+Level 8 (6x6): Unsolvable (0ms)
+Level 24 (9x9): Unsolvable (5ms)
+Level 27 (9x9): Unsolvable (302ms)
+Level 29 (9x9): Timeout (2000ms)
+Level 30 (9x9): Timeout (2000ms)
